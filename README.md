@@ -1,4 +1,4 @@
-# Contact App - Sinatra & SQLite
+# Contact App - Sinatra & SQLite Starter
 
 This is a simple web app built with Sinatra, that allows users to login/logout and create contacts. Users can modify and delete only the contacts that they own. Bootstrap is used for styling and is already included via CDN links.
 
