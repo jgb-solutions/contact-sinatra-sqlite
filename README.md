@@ -2,7 +2,7 @@
 
 This is a simple web app built with Sinatra, that allows users to login/logout and create contacts. Users can modify and delete only the contacts that they own. Bootstrap is used for styling and is already included via CDN links.
 
-The `master` branch of this repo holds a start that I setup if anyone wants to start a basic project with Sinatra. The working project will be pushed to the `dev` branch.
+The `master` branch of this repo holds a starter that I setup if anyone wants to start a basic project with Sinatra. The working project will be pushed to the `dev` branch.
 
 To start working with this starter you have to:
 - Fork this repo
